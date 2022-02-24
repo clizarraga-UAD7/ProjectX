@@ -51,7 +51,7 @@ A Little history... of what was done:
 7. When you have made important changes **Commit** (update files from local to remote repository) using Github Desktop.
 8. After finishig the commit, you can check the Github remote repository to see published resources.
 
-Small change
+Small change ...
 
 ![Flux Tower](./Images/Methane-flux-tower-LICOR.jpg)
 
