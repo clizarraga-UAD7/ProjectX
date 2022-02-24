@@ -10,7 +10,7 @@ You are viewing the Readme.md file in the \<code\> section of the Github reposit
 
 **URL of the Wiki Section of Repository:** https://github.com/clizarraga-UAD7/ProjectX/wiki
 
-Do something
+Add some text...
 
 ***
 
@@ -50,6 +50,8 @@ A Little history... of what was done:
 6. You can edit your Readme.md file using Atom Editor in your computer. Remember CTRL+SHIFT+M open the Markup Language Viewer.
 7. When you have made important changes **Commit** (update files from local to remote repository) using Github Desktop.
 8. After finishig the commit, you can check the Github remote repository to see published resources.
+
+![Flux Tower](./Images/Methane-flux-tower-LICOR.jpg)
 
 ***
 Good practice:
